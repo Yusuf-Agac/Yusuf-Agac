@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yusuf AĞAÇ</h1>
 <h3 align="center">A passionate game developer</h3>
 
-- 🌱 I’m currently learning **Unity-Unreal**
+- 🌱 I’m currently working **Unity-Unreal**
 
 - 📫 How to reach me **yusufagacofficial@gmail.com**
 
